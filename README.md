@@ -1,1 +1,3 @@
-# studio-moon
+# Studio-moon 動態ホームページ最終調版
+與Studio_moon
+不一樣的是，它會動態表現卡片式資料。可以點開卡片。 使用了模態框。
